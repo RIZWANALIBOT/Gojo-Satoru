@@ -25,10 +25,10 @@ global.ownernomer = '923180327106'
 global.ownername = 'RIZWAN ALI'
 global.botname = 'RIZWAN ALI'
 global.footer = '©RIZWAN ALI.'
-global.ig = 'https://github.com/nexusNw'
-global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
-global.myweb = 'https://youtu.be/oEO5cOSQ_E8'
+global.ig = 'https://youtu.be/8JOze2gERoA'
+global.region = 'RIZWAN, South RIZWAN, Kerala'
+global.sc = 'https://youtu.be/8JOze2gERoA'
+global.myweb = 'https://youtu.be/8JOze2gERoA'
 global.packname = 'RIZWAN ALI'
 global.author = 'RIZWAN ALI'
 global.sessionName = 'session'
@@ -42,7 +42,7 @@ global.mess = {
     group: 'Feature Used Only For Groups!',
     private: 'Features Used Only For Private Chat!',
     bot: 'This Feature Is Only For Bot',
-    wait: 'Wait A minute...',
+    wait: 'Wait A minute RIZWAN ALI...',
     error: 'Error! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 24 Hours',
 }
